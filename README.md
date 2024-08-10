@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/48618915-6a01-488f-9bf1-1a42a6386a41)# Blog-website
+# Blog-website
 Blog website using HTML,CSS,Node.js and MongoDB for data storage
 
 This blog website is built using HTML, CSS, Node.js, and MongoDB for data storage, offering a platform where users can create, read, update, and delete blog posts. The website features user authentication, enabling users to sign up, log in, and manage their posts securely. It utilizes Passport.js for authentication, bcrypt for password hashing, and express-session for session management. The application is designed with a responsive user interface and uses EJS as the templating engine to render dynamic content.
